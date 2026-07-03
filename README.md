@@ -311,4 +311,4 @@ Next up: **Lab 002** — continuing with Linux, likely covering file permissions
 ---
 
 *Part of my [Cybersecurity Learning Journey](https://github.com/Teespyck/cybersecurity-journey) — documenting every lab as I transition from Risk & Compliance into Cybersecurity and Cloud Security.*  
-*Cross-posted to [dev.to](https://dev.to/[teebabs]).*
+*Cross-posted to [dev.to](https://dev.to/teebabs).*
