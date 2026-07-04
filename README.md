@@ -1,7 +1,6 @@
 # Lab 001: Setting Up a Linux Security Lab & Command-Line Fundamentals
 
-> **Program:** Cybersecurity (ICDFA)
-> **Registration:** 2026/FCDF/16972
+> **Program:** Cybersecurity 
 > **Module/Week:** Week 1 — Linux Lab Setup & CLI Orientation
 > **Date Completed:** 2026-06-27
 > **Difficulty:** ⭐⭐☆☆☆
